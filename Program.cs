@@ -60,17 +60,23 @@ namespace NumberGuesser
                     continue;
                 }
 
+                // Sprawdź czy użytkownik wprowadził liczbę mniejszą od wylosowanej liczby
                 if (guess < correctNumber)
                 {
+					// Wyświetl komunikat
                     PrintColorMessage(ConsoleColor.Red, "Błędna odpowiedź. Wylosowana liczba jest większa.");
                 }
+				// Sprawdź czy użytkownik wprowadził liczbę większą od wylosowanej liczby
                 else if (guess > correctNumber)
                 {
+					// Wyświetl komunikat
                     PrintColorMessage(ConsoleColor.Red, "Błędna odpowiedź. Wylosowana liczba jest mniejsza.");
                 }
                 else
                 {
+					 // Przypisz do zmiennej correctAnswer wartość true
                     correctAnswer = true;
+					// Wyświetl komunikat
                     PrintColorMessage(ConsoleColor.Green, "Brawo! Prawidłowa odpowiedź!");
                 }
             }
