@@ -1,0 +1,38 @@
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.exe
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.deps.json
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.json
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.dev.json
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfo.cs
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Users\patry\Documents\PUBLIKACJE - Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.genruntimeconfig.cache
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.exe
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.deps.json
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.json
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.dev.json
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csprojAssemblyReference.cache
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfoInputs.cache
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfo.cs
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Jak zostać programistą .NET\Pasja Informatyki\Projekt\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.genruntimeconfig.cache
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.exe
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.deps.json
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.json
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.dev.json
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csprojAssemblyReference.cache
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfoInputs.cache
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfo.cs
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.dll
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.pdb
+C:\Pulpit13012021\Pasja Informatyki\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.genruntimeconfig.cache
